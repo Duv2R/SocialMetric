@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ingreso con cuenta</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="assets/css/estilo.css">
+</head>
+<body>
+    <div class="superior">
+        <nav class="navbar navbar-expand-lg bg-body-white" data-bs-theme="dark">
+            <div class="container-fluid d-flex justify-content-center">
+                <a class="navbar-brand" href="#">
+                    <div class="Logo"> <a class="navbar-brand" href="#"> <i class="bi bi-eye text-light " style="font-size: 40px;"></i></a> </div>
+                </a>
+            </div>
+        </nav>
+    </div>
+    <section class="contenedorPrincipal d-flex justify-content-center align-items-center ">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-8 col-10 offset-lg-4 offset-md-3 offset-sm-2 offset-1">
+                    <form id="formLogin">
+                        <button type="button" onclick="abrirVentanaEmergente()" class="button mt-3"><i class="bi bi-instagram"></i></button>
+                        <div class="input-container mt-3">
+                            <input placeholder="Correo" class="input-field" type="text">
+                            <label for="input-field" class="input-label">Correo google</label>
+                            <span class="input-highlight"></span>
+                        </div>
+                        <div class="input-container mt-3">
+                            <input placeholder="Contraseña" class="input-field" type="password">
+                            <label for="input-field" class="input-label">Contraseña</label>
+                            <span class="input-highlight"></span>
+                        </div>
+                        <button type="submit" class="button mt-4">Ingresar</button>
+ 
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="assets/js/registro.js"></script>
+</body>
+</html>

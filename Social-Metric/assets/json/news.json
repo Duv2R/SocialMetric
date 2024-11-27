@@ -1,0 +1,326 @@
+[
+    {
+        "Categoría": "Política",
+        "Titular": "Nuevo plan económico",
+        "Reportes": "461k Reports",
+        "imagen": "http://dummyimage.com/108x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Economía",
+        "Titular": "Desempleo cae a mínimos históricos",
+        "Reportes": "661k Reports",
+        "imagen": "http://dummyimage.com/102x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Tecnología",
+        "Titular": "Nuevo teléfono inteligente",
+        "Reportes": "427k Reports",
+        "imagen": "http://dummyimage.com/215x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Ciencia",
+        "Titular": "Nuevo planeta descubierto",
+        "Reportes": "684k Reports",
+        "imagen": "http://dummyimage.com/122x100.png/ff4444/ffffff"
+    },
+    {
+        "Categoría": "Medio ambiente",
+        "Titular": "Cambio climático empeora",
+        "Reportes": "232k Reports",
+        "imagen": "http://dummyimage.com/155x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Salud",
+        "Titular": "Nuevo medicamento aprobado",
+        "Reportes": "842k Reports",
+        "imagen": "http://dummyimage.com/242x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Educación",
+        "Titular": "Nuevo programa educativo lanzado",
+        "Reportes": 51373,
+        "imagen": "http://dummyimage.com/113x100.png/ff4444/ffffff"
+    },
+    {
+        "Categoría": "Deportes",
+        "Titular": "Equipo nacional gana el campeonato mundial",
+        "Reportes": 59170,
+        "imagen": "http://dummyimage.com/201x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Entretenimiento",
+        "Titular": "Nueva película de éxito",
+        "Reportes": 41378,
+        "imagen": "http://dummyimage.com/109x100.png/ff4444/ffffff"
+    },
+    {
+        "Categoría": "Sociedad",
+        "Titular": "Grupo de ciudadanos se moviliza",
+        "Reportes": 34968,
+        "imagen": "http://dummyimage.com/186x100.png/ff4444/ffffff"
+    },
+    {
+        "Categoría": "Sucesos",
+        "Titular": "Gran incendio forestal destruye hogares",
+        "Reportes": 61815,
+        "imagen": "http://dummyimage.com/129x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Internacional",
+        "Titular": "Nuevo gobierno instalado",
+        "Reportes": 35507,
+        "imagen": "http://dummyimage.com/102x100.png/ff4444/ffffff"
+    },
+    {
+        "Categoría": "Local",
+        "Titular": "Nuevo parque inaugurado",
+        "Reportes": 47670,
+        "imagen": "http://dummyimage.com/115x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Personal",
+        "Titular": "Una persona consigue un nuevo trabajo",
+        "Reportes": 46820,
+        "imagen": "http://dummyimage.com/102x100.png/ff4444/ffffff"
+    },
+    {
+        "Categoría": "Cultural",
+        "Titular": "Nueva obra de teatro estrenada",
+        "Reportes": 41732,
+        "imagen": "http://dummyimage.com/139x100.png/dddddd/000000"
+    },
+    {
+        "Categoría": "Futuro",
+        "Titular": "Nueva tecnología que cambiará el mundo",
+        "Reportes": 75314,
+        "imagen": "http://dummyimage.com/220x100.png/cc0000/ffffff"
+    },
+    {
+        "Categoría": "Creatividad",
+        "Titular": "Nueva obra de arte aclamada por la crítica",
+        "Reportes": 55774,
+        "imagen": "http://dummyimage.com/125x100.png/dddddd/000000"
+    },
+    {
+        "Categoría": "Inspiración",
+        "Titular": "Una persona logra algo increíble",
+        "Reportes": 64934,
+        "imagen": "http://dummyimage.com/202x100.png/cc0000/ffffff"
+    },
+    {
+        "Categoría": "Política",
+        "Titular": " nueva ley de inmigración",
+        "Reportes": 40958,
+        "imagen": "http://dummyimage.com/126x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Economía",
+        "Titular": " bolsa alcanza un nuevo récord",
+        "Reportes": 69978,
+        "imagen": "http://dummyimage.com/170x100.png/cc0000/ffffff"
+    },
+    {
+        "Categoría": "Tecnología",
+        "Titular": " nueva empresa de tecnología recauda fondos",
+        "Reportes": 80226,
+        "imagen": "http://dummyimage.com/133x100.png/cc0000/ffffff"
+    },
+    {
+        "Categoría": "Ciencia",
+        "Titular": " nueva vacuna contra el cáncer",
+        "Reportes": 64477,
+        "imagen": "http://dummyimage.com/163x100.png/cc0000/ffffff"
+    },
+    {
+        "Categoría": "Medio ambiente",
+        "Titular": " campaña para proteger el medio ambiente",
+        "Reportes": 68900,
+        "imagen": "http://dummyimage.com/220x100.png/cc0000/ffffff"
+    },
+    {
+        "Categoría": "Salud",
+        "Titular": " nueva vacuna contra una enfermedad mortal",
+        "Reportes": 28345,
+        "imagen": "http://dummyimage.com/121x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Educación",
+        "Titular": " escuela construida en una comunidad de bajos ingresos",
+        "Reportes": 63544,
+        "imagen": "http://dummyimage.com/158x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Deportes",
+        "Titular": " atleta olímpico establece un nuevo récord",
+        "Reportes": 22342,
+        "imagen": "http://dummyimage.com/176x100.png/ff4444/ffffff"
+    },
+    {
+        "Categoría": "Entretenimiento",
+        "Titular": " álbum de música lanzado",
+        "Reportes": 63005,
+        "imagen": "http://dummyimage.com/167x100.png/ff4444/ffffff"
+    },
+    {
+        "Categoría": "Sociedad",
+        "Titular": " nuevo programa gubernamental ayuda a los pobres",
+        "Reportes": 76097,
+        "imagen": "http://dummyimage.com/118x100.png/cc0000/ffffff"
+    },
+    {
+        "Categoría": "Sucesos",
+        "Titular": " terremoto causa daños generalizados",
+        "Reportes": 77567,
+        "imagen": "http://dummyimage.com/162x100.png/ff4444/ffffff"
+    },
+    {
+        "Categoría": "Internacional",
+        "Titular": " conflicto armado",
+        "Reportes": 32952,
+        "imagen": "http://dummyimage.com/147x100.png/cc0000/ffffff"
+    },
+    {
+        "Categoría": "Local",
+        "Titular": " hospital abierto en una comunidad",
+        "Reportes": 42343,
+        "imagen": "http://dummyimage.com/178x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Personal",
+        "Titular": " se casa",
+        "Reportes": 39564,
+        "imagen": "http://dummyimage.com/200x100.png/dddddd/000000"
+    },
+    {
+        "Categoría": "Cultural",
+        "Titular": " exposición de arte inaugurada",
+        "Reportes": 74798,
+        "imagen": "http://dummyimage.com/102x100.png/ff4444/ffffff"
+    },
+    {
+        "Categoría": "Futuro",
+        "Titular": " problema global resuelto",
+        "Reportes": 61372,
+        "imagen": "http://dummyimage.com/245x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Creatividad",
+        "Titular": " pieza musical exitosa",
+        "Reportes": 64734,
+        "imagen": "http://dummyimage.com/230x100.png/cc0000/ffffff"
+    },
+    {
+        "Categoría": "Inspiración",
+        "Titular": " inspira a otros a perseguir sus sueños",
+        "Reportes": 20918,
+        "imagen": "http://dummyimage.com/199x100.png/cc0000/ffffff"
+    },
+    {
+        "Categoría": "Política",
+        "Titular": " decisión de la Corte Suprema sobre el aborto.",
+        "Reportes": 59486,
+        "imagen": "http://dummyimage.com/165x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Economía",
+        "Titular": " inflación se desacelera.",
+        "Reportes": 33096,
+        "imagen": "http://dummyimage.com/244x100.png/ff4444/ffffff"
+    },
+    {
+        "Categoría": "Tecnología",
+        "Titular": " nueva tecnología que revolucionará la industria.",
+        "Reportes": 52699,
+        "imagen": "http://dummyimage.com/102x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Ciencia",
+        "Titular": " descubrimiento científico revolucionario.",
+        "Reportes": 58336,
+        "imagen": "http://dummyimage.com/163x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Medio ambiente",
+        "Titular": " plan ambicioso para reducir emisiones.",
+        "Reportes": 21569,
+        "imagen": "http://dummyimage.com/197x100.png/dddddd/000000"
+    },
+    {
+        "Categoría": "Salud",
+        "Titular": " avance científico que conduce a una cura para el cáncer.",
+        "Reportes": 23988,
+        "imagen": "http://dummyimage.com/227x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Educación",
+        "Titular": " inversión en educación.",
+        "Reportes": 62500,
+        "imagen": "http://dummyimage.com/195x100.png/cc0000/ffffff"
+    },
+    {
+        "Categoría": "Deportes",
+        "Titular": " equipo profesional gana el campeonato de liga.",
+        "Reportes": 55624,
+        "imagen": "http://dummyimage.com/130x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Entretenimiento",
+        "Titular": " programa de televisión exitoso.",
+        "Reportes": 65092,
+        "imagen": "http://dummyimage.com/240x100.png/ff4444/ffffff"
+    },
+    {
+        "Categoría": "Sociedad",
+        "Titular": " iniciativa de empresa para promover la diversidad.",
+        "Reportes": 55090,
+        "imagen": "http://dummyimage.com/115x100.png/ff4444/ffffff"
+    },
+    {
+        "Categoría": "Sucesos",
+        "Titular": " huracán azota la costa.",
+        "Reportes": 34010,
+        "imagen": "http://dummyimage.com/131x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Internacional",
+        "Titular": " acuerdo de paz.",
+        "Reportes": 52790,
+        "imagen": "http://dummyimage.com/122x100.png/dddddd/000000"
+    },
+    {
+        "Categoría": "Local",
+        "Titular": " nueva carretera construida en una zona rural.",
+        "Reportes": 40209,
+        "imagen": "http://dummyimage.com/106x100.png/cc0000/ffffff"
+    },
+    {
+        "Categoría": "Personal",
+        "Titular": " tiene un hijo.",
+        "Reportes": 33942,
+        "imagen": "http://dummyimage.com/231x100.png/cc0000/ffffff"
+    },
+    {
+        "Categoría": "Cultural",
+        "Titular": " libro publicado.",
+        "Reportes": 65728,
+        "imagen": "http://dummyimage.com/130x100.png/cc0000/ffffff"
+    },
+    {
+        "Categoría": "Futuro",
+        "Titular": " paz mundial alcanzada.",
+        "Reportes": 73732,
+        "imagen": "http://dummyimage.com/207x100.png/dddddd/000000"
+    },
+    {
+        "Categoría": "Creatividad",
+        "Titular": " novela best seller.",
+        "Reportes": 46362,
+        "imagen": "http://dummyimage.com/193x100.png/5fa2dd/ffffff"
+    },
+    {
+        "Categoría": "Inspiración",
+        "Titular": " hace del mundo un lugar mejor.",
+        "Reportes": 28167,
+        "imagen": "http://dummyimage.com/242x100.png/dddddd/000000"
+    }
+]
